@@ -1,4 +1,14 @@
-## Hi there 👋
+## Olá, meu nome é Samuel Vieira! 🍃 👋
+
+Sou estudante de Análise e Desenvolvimento de Sistemas 📖
+Desde minha infância, tenho amor por tecnologia, e desde então, minha curiosidade e admiração só aumentaram.
+
+Na adolescência, comecei a me aventurar na programação por diversão, 
+desenvolvendo pequenos projetos e explorando o potencial criativo que a tecnologia oferece. 
+Hoje, busco transformar essa paixão em conhecimento técnico, soluções reais, e seguir como profissional em front-end.
+
+🎯 Meu **objetivo atual** enquanto estudante, é evoluir e expandir meus conhecimentos sobre o mundo de TI e também expandir e desenvolver minhas softskills.
+
 
 <!--
 **SaLacroix/SaLacroix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
