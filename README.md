@@ -9,6 +9,13 @@ Hoje, busco transformar essa paixão em conhecimento técnico, soluções reais,
 
 🎯 Meu **objetivo atual** enquanto estudante, é evoluir e expandir meus conhecimentos sobre o mundo de TI e também expandir e desenvolver minhas softskills.
 
+## 💼 Projetos
+## Jogo do numero secreto: https://github.com/lostKorok/jogo_do_numero_secreto
+Um jogo simples onde o objetivo é o usuário acertar o número secreto.
+
+## Projeto Cinema: https://github.com/lostKorok/projeto-cinema
+Um E-commerce de um cinema (ficticio), onde o usuário podera fazer compras de ingressos e comidas.
+
 
 <!--
 **SaLacroix/SaLacroix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
