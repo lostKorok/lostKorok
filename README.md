@@ -17,7 +17,7 @@ Hoje, busco transformar essa paixão em conhecimento técnico, soluções reais,
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 
 ## 💼 Projetos
-## Jogo do numero secreto: https://github.com/lostKorok/jogo_do_numero_secreto
+## Jogo do número secreto: https://github.com/lostKorok/jogo_do_numero_secreto
 Um jogo simples onde o objetivo é o usuário acertar um número gerado aleatóriamente.
 
 ## Projeto Cinema: https://github.com/lostKorok/projeto-cinema
