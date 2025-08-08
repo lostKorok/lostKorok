@@ -7,7 +7,7 @@ Na adolescência, comecei a me aventurar na programação por diversão,
 desenvolvendo pequenos projetos e explorando o potencial criativo que a tecnologia oferece. 
 Hoje, busco transformar essa paixão em conhecimento técnico, soluções reais, e seguir como profissional em front-end.
 
-🎯 Meu **objetivo atual** enquanto estudante, é evoluir e expandir meus conhecimentos sobre o mundo de TI e também expandir e desenvolver minhas softskills.
+🎯 Meu **objetivo atual** enquanto estudante, é evoluir e expandir meus conhecimentos sobre o mundo de TI e também desenvolver minhas softskills.
 
 ## No momento estou estudando as tecnologias
 
