@@ -18,7 +18,7 @@ Hoje, busco transformar essa paixão em conhecimento técnico, soluções reais,
 
 ## 💼 Projetos
 ## Jogo do numero secreto: https://github.com/lostKorok/jogo_do_numero_secreto
-Um jogo simples onde o objetivo é o usuário acertar o número secreto.
+Um jogo simples onde o objetivo é o usuário acertar um número gerado aleatóriamente.
 
 ## Projeto Cinema: https://github.com/lostKorok/projeto-cinema
 Um E-commerce de um cinema (ficticio), onde o usuário podera fazer compras de ingressos e comidas.
