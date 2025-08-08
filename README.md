@@ -9,6 +9,13 @@ Hoje, busco transformar essa paixão em conhecimento técnico, soluções reais,
 
 🎯 Meu **objetivo atual** enquanto estudante, é evoluir e expandir meus conhecimentos sobre o mundo de TI e também expandir e desenvolver minhas softskills.
 
+## No momento estou estudando as tecnlogias
+
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+
 ## 💼 Projetos
 ## Jogo do numero secreto: https://github.com/lostKorok/jogo_do_numero_secreto
 Um jogo simples onde o objetivo é o usuário acertar o número secreto.
